@@ -5,7 +5,7 @@ B.S. in Aeronautics and Astronautics, National Cheng Kung University.
 I work on scientific computing and computational modeling of coupled physical systems. My
 previous work centers on human-powered aircraft: multidisciplinary design and analysis,
 structural finite-element modeling, aerodynamic shape optimization, and CFD verification.
-Founder and chief engineer of the NCKU human-powered aircraft team.
+Co-Founder and chief engineer of the NCKU human-powered aircraft team.
 
 I am currently moving toward computational neuroscience and multimodal neural modeling.
 
