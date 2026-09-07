@@ -31,7 +31,6 @@ I am currently moving toward computational neuroscience and multimodal neural mo
 EEG–fMRI multimodal modeling, brain decoding, state-space and latent-state inference, and
 physically informed neural measurement models.
 
-The through-line from the aircraft work: both problems are about inferring the state of a system
-you cannot observe directly, from indirect measurements at different fidelities and
-resolutions — and about being explicit regarding what the model does and does not license you to
-conclude.
+My aircraft work and current neuroscience interests are connected less by a specific method than 
+by how I approach complex systems: choosing useful levels of description, 
+making assumptions explicit, and testing what a model or measurement actually supports.
